@@ -1,6 +1,8 @@
 # FBLA-QuizME
-FBLA Mobile Application Development 2018-2019
+FBLA Mobile Application Development 2018-2019 
+
 Suchir Agarwal and Udit Garg
+
 Parkland High School
 ## Instructions for Installation
 ### Requirements
