@@ -7,6 +7,7 @@ Parkland High School
 ## Instructions for Installation
 ### Requirements
 * Xcode 9.0 or higher
+* At least iOS 11.0
 ### Installation
 1. Download repository as a .zip.
 1. Extract the .zip.
