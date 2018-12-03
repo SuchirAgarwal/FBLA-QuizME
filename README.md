@@ -21,4 +21,22 @@ Parkland High School
 1. Once the application runs, the iOS device can be safely removed from the Mac.
 
 
+## How to use Social Media in FBLA-QuizME
+1. On the Home Page in the bottom right corner tap on Social Media
+1. Follow us on the Facebook, Instagram, and Twitter
+1. Finish the 13 questions for the topic you chose
+1. Once the alert message pops up and prompts you to click "Your Score", click "Your Score"
+1. Find out your rating
+1. Tap on the "Share Your Score on Social Media" button 
+1. Select the Social Media platform you wish to use (if no platform shows up, click on "more" and select the activities you would like our app to be compatible with)
+1. Enter your score and Share!
+
+
+
+## Technologies Used
+* IDE: Xcode
+* Language: Swift
+* Operating System: Mac OS X
+
+
 
