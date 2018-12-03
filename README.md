@@ -20,8 +20,7 @@ Parkland High School
 1. The application should install an run automatically on the iOS device and the simulator.
 1. Once the application runs, the iOS device can be safely removed from the Mac.
 
-
-## How to use Social Media in FBLA-QuizME
+## How to use Social Media 
 1. On the Home Page in the bottom right corner tap on Social Media
 1. Follow us on the Facebook, Instagram, and Twitter
 1. Finish the 13 questions for the topic you chose
@@ -31,7 +30,10 @@ Parkland High School
 1. Select the Social Media platform you wish to use (if no platform shows up, click on "more" and select the activities you would like our app to be compatible with)
 1. Enter your score and Share!
 
-
+## How to Report a bug 
+1. We have a button at the buttom of each topic view
+1. Tap on that button and then tap the report problem button
+1. This will auto generate an email in which you can tell us the problem you found and send it via email
 
 ## Technologies Used
 * IDE: Xcode
