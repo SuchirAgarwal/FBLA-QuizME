@@ -49,3 +49,6 @@ Parkland High School
 | Language  | Swift  |
 | Operating System  | Mac OS  |
 
+## Team Members
+* @SuchirAgarwal
+* @uditgarg32
