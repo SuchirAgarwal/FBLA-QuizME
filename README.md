@@ -10,8 +10,10 @@ Parkland High School
 
 ## Instructions for Installation
 ### Requirements
-* Xcode 9.0 or higher
-* At least iOS 11.0
+|               | Requirements |
+| ------------- | ------------- |
+| Minimum System Version  | iOS 11.0  |
+| Xcode Version | 9.0  |
 ### Installation
 1. Download repository as a .zip.
 1. Extract the .zip.
@@ -40,9 +42,10 @@ Parkland High School
 1. This will auto generate an email in which you can tell us the problem you found and send it via email
 
 ## Technologies Used
-* IDE: Xcode
-* Language: Swift
-* Operating System: Mac OS X
 
-
+|               | Technologies Used |
+| ------------- | ------------- |
+| IDE  | Xcode  |
+| Language  | Swift  |
+| Operating System  | Mac OS  |
 
