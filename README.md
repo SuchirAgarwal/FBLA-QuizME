@@ -12,6 +12,9 @@ Topic: Develop an app designed to test a member’s knowledge of FBLA.  Give the
   * The operating system must be mobile based such as Android or iOS
   * The app should be secure and bug free
   * The app should state its licensing and terms of use
+  
+## Correlation
+FBLA-QuizME is a mobile application created to help FBLA member's test their knowledge of FBLA. We have provided over 20 topics for students to use to help themselves get test ready! 
 
 ## Instructions for Installation
 ### Requirements
