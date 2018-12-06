@@ -68,4 +68,4 @@ FBLA-QuizME is a mobile application created to help FBLA member's test their kno
 * @uditgarg32
 
 # Link to Github Page
-If you are a judge and would like to see our Github page please click [here](https://pages.github.com/)
+If you are a judge and would like to see our Github page please click [here](https://github.com/SuchirAgarwal/FBLA-QuizME)
