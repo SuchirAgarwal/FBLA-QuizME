@@ -22,7 +22,7 @@ FBLA-QuizME is a mobile application created to help FBLA member's test their kno
 |               | Requirements |
 | ------------- | ------------- |
 | Minimum System Version  | iOS 11.0  |
-| Xcode Version | 9.0  |
+| Minimum Xcode Version | 9.0  |
 ### Installation
 1. Download repository as a .zip.
 1. Extract the .zip.
