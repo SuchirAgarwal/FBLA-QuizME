@@ -26,7 +26,7 @@ FBLA-QuizME is a mobile application created to help FBLA member's test their kno
 1. Download repository as a .zip.
 1. Extract the .zip.
 1. Locate the unzipped folder named FBLA-QuizME
-1. Navigate to the .xcodeproj file located under FBLA-QuizME\FBLA-QuizME\FBLA-QuizME.xcodeproj.
+1. Navigate to the .xcodeproj file located under FBLA-QuizME/FBLA-QuizME/FBLA-QuizME.xcodeproj.
 1. Double click on it to open it.
 1. If prompted to confirm opening the project, press "Open".
 #### Building to iOS-Based Device
