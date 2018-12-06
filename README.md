@@ -5,7 +5,7 @@ Suchir Agarwal and Udit Garg
 
 Parkland High School
 
-![](https://github.com/SuchirAgarwal/FBLA-QuizME/blob/master/FBLA-QuizME%20Logo.png)
+![FBLA-QuizME Logo](https://github.com/SuchirAgarwal/FBLA-QuizME/blob/master/FBLA-QuizME%20Logo.png)
 ## Overview
 Topic: Develop an app designed to test a member’s knowledge of FBLA.  Give the app a name.  The app must produce questions to be presented to the user comprising a minimum of five different FBLA-related topics. Topics may include competitive events, business skills, national officers and/or running for national office, national sponsors/partners, basic parliamentary procedure, national conference (NFLC and NLC) dates/locations, FBLA history, etc.
 
